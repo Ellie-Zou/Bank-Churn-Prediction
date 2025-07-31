@@ -1,2 +1,2 @@
 # Bank-Churn-Prediction
- In this project, we utilized user-related data to perform a thorough analysis for predicting bank churn.
+ In this project, we analyzed user data and built machine learning models (Gradient Boosting, SVM, Random Forest) to predict bank churn.
